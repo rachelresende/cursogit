@@ -25,4 +25,7 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 
 ![Logo da Foto](img/python.jpeg)
 
+#### Imagem Externa
+
+![Logo PHP](https://www.python.org/static/community_logos/python-logo.png)
 
