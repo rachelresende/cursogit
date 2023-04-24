@@ -19,7 +19,7 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 
 
 ## Proximos Passos
-* Projeto: Portfolio com Github 
+- [x] Projeto: Portfolio com Github 
 
 #### Fotografia Antiga - Teste 
 
