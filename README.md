@@ -32,4 +32,5 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 #### Links Interessantes
 
 [Comunidade WTM](https://developers.google.com/womentechmakers)
+Voluntaria: https://github.com/rachelresende 
 
