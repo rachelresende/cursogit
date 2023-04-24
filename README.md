@@ -23,6 +23,6 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 
 #### Fotografia Antiga - Teste 
 
-![Logo da Foto](C:\Users\55219_004\Desktop\Arquivos\cursogit\img\python.jpeg)
+![Logo da Foto](img/python.jpeg)
 
 
