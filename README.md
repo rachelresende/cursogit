@@ -23,7 +23,7 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 
 #### Fotografia Antiga - Teste 
 
-![Logo da Foto](img/python.jpeg)
+[![Logo da Foto](img/python.jpeg)](https://github.com/rachelresende)
 
 #### Imagem Externa
 
@@ -33,4 +33,5 @@ _Fundamentos de *Git e Github* do basico ao avancado_
 
 [Comunidade WTM](https://developers.google.com/womentechmakers)
 Voluntaria: https://github.com/rachelresende 
+
 
